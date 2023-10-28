@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="main_logo_salmon.svg"
+   sodipodi:docname="main_logo_blue.svg"
    inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\School\College\4th Semester\Web Fundimentals\Week 7\personal_website\images\main_logo_salmon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -29,9 +29,9 @@
      showgrid="false"
      width="1000.0001px"
      units="px"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="270.11479"
-     inkscape:cy="57.982756"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="458.99999"
+     inkscape:cy="638.99998"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -101,49 +101,55 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Sign">
-    <path
-       id="rect866"
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:6.35;paint-order:fill markers stroke;stop-color:#000000"
-       d="M 0,0 H 264.71417 V 77.916359 H 0 Z" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.3383px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#e07a5f;fill-opacity:1;stroke-width:0.264583"
-       x="32.896969"
-       y="33.660809"
-       id="text20000"><tspan
-         sodipodi:role="line"
-         id="tspan19998"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.3383px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e07a5f;fill-opacity:1;stroke-width:0.264583"
-         x="32.896969"
-         y="33.660809">MY</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.3383px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;word-spacing:0px;text-anchor:start;fill:#e07a5f;fill-opacity:1;stroke-width:0.264583"
-       x="12.550659"
-       y="63.082798"
-       id="text11544"><tspan
-         sodipodi:role="line"
-         id="tspan11542"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.3383px;font-family:Raleway;-inkscape-font-specification:'Raleway, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#e07a5f;fill-opacity:1;stroke-width:0.264583"
-         x="12.550659"
-         y="63.082798">BOARD</tspan></text>
     <g
-       id="g78440"
-       mask="url(#mask-powermask-path-effect78450)"
-       inkscape:path-effect="#path-effect78450"
-       style="stroke:#e07a5f;stroke-opacity:1">
+       id="g5188">
       <path
-         id="rect1357"
-         style="fill:#000000;fill-opacity:0;stroke:#e07a5f;stroke-width:5.29167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
-         d="M 2.580406,2.7129198 H 152.09971 V 75.337451 H 2.580406 Z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:original-d="M 2.580406,2.7129198 H 152.09971 V 75.337451 H 2.580406 Z" />
-      <path
-         id="path6317"
-         style="fill:#e07a5f;fill-opacity:1;stroke:#e07a5f;stroke-width:5.29167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
-         d="M 156.87323,2.7130776 H 262.00291 V 75.337608 H 156.87323 Z"
-         sodipodi:nodetypes="ccccc"
-         inkscape:original-d="M 156.87323,2.7130776 H 262.00291 V 75.337608 H 156.87323 Z" />
+         id="rect866"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:6.35;paint-order:fill markers stroke;stop-color:#000000"
+         d="M 0,0 H 264.71417 V 77.916359 H 0 Z" />
+      <g
+         id="g6087">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.3383px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+           x="32.896969"
+           y="33.660809"
+           id="text20000"><tspan
+             sodipodi:role="line"
+             id="tspan19998"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.3383px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+             x="32.896969"
+             y="33.660809">MY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.3383px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;word-spacing:0px;text-anchor:start;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+           x="12.550659"
+           y="63.082798"
+           id="text11544"><tspan
+             sodipodi:role="line"
+             id="tspan11542"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.3383px;font-family:Raleway;-inkscape-font-specification:'Raleway, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#3a405a;fill-opacity:1;stroke-width:0.264583"
+             x="12.550659"
+             y="63.082798">BOARD</tspan></text>
+        <g
+           id="g78440"
+           mask="url(#mask-powermask-path-effect78450)"
+           inkscape:path-effect="#path-effect78450"
+           style="stroke:#e07a5f;stroke-opacity:1">
+          <path
+             id="rect1357"
+             style="fill:#000000;fill-opacity:0;stroke:#3a405a;stroke-width:5.29167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+             d="M 2.580406,2.7129198 H 152.09971 V 75.337451 H 2.580406 Z"
+             sodipodi:nodetypes="ccccc"
+             inkscape:original-d="M 2.580406,2.7129198 H 152.09971 V 75.337451 H 2.580406 Z" />
+          <path
+             id="path6317"
+             style="fill:#3a405a;fill-opacity:1;stroke:#3a405a;stroke-width:5.29167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+             d="M 156.87323,2.7130776 H 262.00291 V 75.337608 H 156.87323 Z"
+             sodipodi:nodetypes="ccccc"
+             inkscape:original-d="M 156.87323,2.7130776 H 262.00291 V 75.337608 H 156.87323 Z" />
+        </g>
+      </g>
     </g>
   </g>
   <g
