@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="main_logo_white.svg"
-   inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\School\College\4th Semester\Web Fundimentals\Week 7\personal_website\images\main_logo_salmon.png"
+   inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\GitHub\myboardgame\images\main_logo_white.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,7 +29,7 @@
      width="1000.0001px"
      units="px"
      inkscape:zoom="0.3535534"
-     inkscape:cx="69.296463"
+     inkscape:cx="-222.03152"
      inkscape:cy="120.20815"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -117,8 +117,9 @@
          values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
          in="fbSourceGraphic" />
     </filter>
-    <style type="text/css">
-    <![CDATA[
+    <style
+       type="text/css"
+       id="style16"><![CDATA[
       @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
       @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
@@ -136,8 +137,7 @@
         font-family: 'Lato', sans-serif;
         font-weight: 900; /* Heavy */
       }
-    ]]>
-  </style>
+    ]]></style>
   </defs>
   <g
      inkscape:groupmode="layer"
