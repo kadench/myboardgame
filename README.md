@@ -10,15 +10,15 @@ This repository serves as a simple documentation of my journey in creating my ve
 
 ## Pages
 
-### [Home](./home.md)
+### [Home](./index.html)
 
 The Home page offers an introduction to Monopoly and the basis of my version. I also discuss the software and resources I used during the creation of my game.
 
-### [Creation](./creation.md)
+### [Creation](./creation.html)
 
 On the Creation page, I provide a straightforward description of the game's elements and a simplified overview of the creation process for each component.
 
-### [Contact](./contact.md)
+### [Contact](./contact.html)
 
 The Contact page offers a brief 'About Me' section and my contact information, should you wish to get in touch.
 
