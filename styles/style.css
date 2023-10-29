@@ -26,6 +26,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
   }
   
   body {
@@ -38,13 +39,13 @@
   }
   
   #main-box {
-    width: 80%; 
+    width: 100%; 
     max-width: 600px; 
     padding: 20px;
     background-color: var(--secondary-color);
     text-align: center;
     border: 1px solid var(--primary-color);
-    margin: 20px; 
+    cursor: pointer;
   }
   
   h1 {
