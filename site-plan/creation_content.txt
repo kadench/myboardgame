@@ -1,0 +1,54 @@
+Creation wireframe:
+https://wireframe.cc/ww2PIX
+
+My board game creation content:
+-- Section 1 --
+Creation
+On this page, you will first find all the software used to create the parts and pieces of the game, and second you will
+find the name, an example image, it's dimensions, and any suggestions I have when going about making your own game. I hope
+this information is helpful.
+
+-- Section 2 --
+Inkscape
+Inkscape is a free to use, open source, scalable vector graphic (svg) editing software that is perfect for making the graphics
+for your Monopoly game. If you don't know, an svg is a graphic or image that doesn't pixelate, ever. You can scale the image as
+big or as small as you want and the image will still look crisp. While it may take some getting used to, there are a ton of useful
+YouTube channels (such as Logos by Nick) and useful documentation on how to use this sofware with ease.
+
+--
+
+Online Editing Software
+There are many useful online tools to edit images you have to the way you want them. However, many of them require you to pay for
+their services after a certain use. Lunapic is a great, free online image editor that I have used for a few years now, and it seems
+to do a decent job. If you would like to check it out/use it for yourself, please feel free to do so. Always make sure you trust a
+website/service before uploading/downloading any content. (Use this or any software at your own risk!)
+
+-- Section 3 --
+The Board
+The Monopoly board was the first thing I worked on. I didn't really know what I was doing with the first draft, but I kept on refining 
+the board until I got it to a point I like. If you decide to use Inkscape for this, please make sure to put each of the property tiles 
+in their own layer! as I found out, the file starts lagging if you don't do this! It may take some time to get the desired look, so 
+please be aware that the design may need to be done more than once!
+Dimensions: 19 1/2" x 19 1/2"
+
+-- Section 4 --
+Game Cards
+The key for the game cards is to look on the internet for design ideas. Creating a card design idea can be tough, but with enough work,
+it will be done well. For my game, I decided to design the backs of the Monopoly board cards on my own, but the property deeds are inspired
+by the backs of the property deeds from the Mega Monopoly Edition. All the game cards are the same size.
+Dimensions: 2" x 3 1/8"
+
+-- Section 5 --
+Money
+The money you use for your Monopoly money doesn't have to be made by you. You could just take the already existing money from a Monopoly game
+that you have lying around. Make sure you have permission to use it though! You can, however, make your own Monopoly money from scratch. When
+I was making my money, I followed a tutorial from Logos by Nick. It creates a similar-ish border effect on the money like you see in the original.
+Dimensions: 4" x 2"
+
+-- Section 6 --
+Tokens
+Same as the money, you can use the existing tokens you find in an already existing Monopoly game, but if you want to make your own, I can tell
+you how I made mine. I found a website that 3D prints in metal because I really wanted to have custom tokens made of bronze in my game. Although
+this was a fun thought, I'd advise you not to do this if you want to save money. If you still want to make custom tokens, make sure the dimensions
+of the tokens are what you really want. I made the mistake of ordering the tokens and they came out too small. Click here to use the service I did
+to make my tokens.
