@@ -54,13 +54,13 @@ body {
   text-align: center;
 }
 
-.close-disclaimer {
+#close-disclaimer {
   color: var(--headline-color-on-color);
   justify-self: right;
 
 }
 
-.close-disclaimer:hover {
+#close-disclaimer:hover {
   color: var(--secondary-color);
   background-color: rgb(253, 220, 136);
   border-radius: 5px;
@@ -68,10 +68,10 @@ body {
   transition: all 0.3s ease-in-out;
 }
 
-.close-disclaimer:checked ~ #disclaimer-div {
+#close-disclaimer:checked:has(#disclaimer-div) {
   display: none;
 }
 
-.close-disclaimer-checkbox {
+#close-disclaimer-checkbox {
   display: none;
 }
