@@ -16,7 +16,7 @@ The Home page offers an introduction to Monopoly and the basis of my version. I 
 
 ### [Creation](./creation.html)
 
-On the Creation page, I provide a straightforward description of the game's elements and a simplified overview of the creation process for each component.
+On the Creation page, I provide a straightforward description of the software I use and the original Monopoly game's elements and a simplified overview of the creation process for each component.
 
 ### [Contact](./contact.html)
 
