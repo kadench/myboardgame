@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="favicon2.svg"
+   sodipodi:docname="favicon.svg"
    inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\School\College\4th Semester\Web Fundimentals\Week 7\personal_website\images\main_logo_salmon.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,9 +28,9 @@
      showgrid="false"
      width="1000.0001px"
      units="px"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="-373.99999"
-     inkscape:cy="374.99999"
+     inkscape:zoom="2"
+     inkscape:cx="-53.249999"
+     inkscape:cy="176.25"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -95,10 +95,16 @@
      transform="translate(40.460454,-111.36268)">
     <path
        id="rect39770"
-       style="fill:#39435a;stroke-width:3.99203;paint-order:fill markers stroke;stop-color:#000000;fill-opacity:1;filter:url(#filter41902)"
-       d="m -40.460454,111.36268 h 60.8542 V 229.079 h -60.8542 z" />
+       style="fill:#39435a;fill-opacity:1;stroke-width:3.99203;paint-order:fill markers stroke;filter:url(#filter41902);stop-color:#000000"
+       d="m -40.460454,111.36268 h 60.8542 V 229.079 h -60.8542 z"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\School\College\4th Semester\Web Fundimentals\Week 7\personal_website\images\main_logo_blue_flipped.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
-       id="g36624">
+       id="g36624"
+       inkscape:export-filename="C:\Users\garfu\OneDrive\Documents\School\College\4th Semester\Web Fundimentals\Week 7\personal_website\images\main_logo_blue_flipped.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          id="g39624">
         <path
