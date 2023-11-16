@@ -1,0 +1,57 @@
+:root {
+    --primary-color: #E9C46A;
+    --secondary-color: #3A405A;
+    --accent1-color: #759AAB;
+    --accent2-color: #E07A5F;
+  
+    --heading-font: "Lato", Helvetica, sans-serif;
+    --paragraph-font: "Roboto", Helvetica, sans-serif;
+  
+    /* these colors below should be chosen from among your palette colors above */
+    --headline-color-on-white: var(--primary-color);  /* headlines on a white background */ 
+    --headline-color-on-color: #F2F2F2; /* headlines on a colored background */ 
+    --paragraph-color-on-white: var(--accent1-color); /* paragraph text on a white background */ 
+    --paragraph-color-on-color: #000; /* paragraph text on a colored background */ 
+    --paragraph-background-color: var(--secondary-color);
+    --nav-link-color: #000;
+    --nav-background-color: var(--primary-color);
+    --nav-hover-link-color: #F2F2F2;
+    --nav-hover-background-color: var(--accent1-color);
+  }
+
+main {
+    width: 100%;
+}
+
+#hero-section {
+    display: flex;
+    justify-items: center;
+    background-image: url(../images/index/main-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hero-content {
+    margin: 8% 20%;
+    background-color: var(--accent2-color);
+    text-align: center;
+}
+
+.hero-text {
+    padding: 3%;
+    color: var(--nav-hover-link-color);
+}
+
+#hero-h1 {
+    padding: 3%;
+    font-family: var(--heading-font);
+    padding-bottom: .1em;
+    font-size: 2em;
+
+}
+
+#hero-p {
+    line-height: 1.5;
+    font-family: var(--paragraph-font);
+    font-size: 1em;
+}

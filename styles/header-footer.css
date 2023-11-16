@@ -31,11 +31,13 @@
 *, *::before, *::after {
   margin: 0;
   padding: 0;
+  /* outline: 2px solid green; */
 }
 
 /* Setting a baseline text-size */
+
 body {
-  width: 100%;
+  min-width: 100%;
 }
 /* Top bar (div) disclaimer */
 #disclaimer-div {
@@ -44,7 +46,6 @@ body {
   padding: 1%;
   background-color: var(--secondary-color);
   align-items: center;
-  transition: all 0.3s ease-in-out;
 }
 
 #disclaimer-p {
@@ -58,8 +59,6 @@ body {
   color: var(--headline-color-on-color);
   display: flex;
   justify-self: right;
-  align-items: center;
-  justify-content: center;
   transition: all 0.2s ease-in;
 }
 
@@ -90,7 +89,6 @@ prompted that anything is there anymore.*/
 #close-disclaimer-checkbox:checked ~ #disclaimer-div {
   pointer-events: none;
   position: absolute;
-  z-index: 0;
 }
 
 
@@ -103,16 +101,20 @@ header {
   height: 80px;
 }
 
+/* general image styling */
+img {
+  font-style: italic;
+}
+
 /* Style the logo */
 #logo-div {
-  content: url(../images/header/nav/main_logo_blue_with_shadow.png);
+  content: url(../images/header/nav/desktop_main_logo_blue.png);
   height: 57px;
-  width: auto;
-  transition: background-color 0.2s ease-out;
+  
 }
 
 #logo-div:hover {
-  content: url(../images/header/nav/main_logo_inversed_blue_with_shadow.png);
+  content: url(../images/header/nav/desktop_main_logo_blue_inversed.png);
 }
 
 /* nav styles */
@@ -141,15 +143,13 @@ nav a:hover {
 }
 
 footer {
+  position: static;
+  margin-top: auto;
   display: grid;
   grid-template-columns: 82% 18%;
-  position: absolute;
   background-color: var(--primary-color);
-  padding: 8px 10px;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  overflow: hidden;
+  padding: 8px;
+  gap: 3%;
 }
 
 footer p {
@@ -161,12 +161,17 @@ footer p {
 }
 
 #footer-contact-section {
-  text-align: right;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 170px;
+  text-align: center;
+  justify-items: right;
+  
 }
 
 footer img {
   width: 50px;
-  padding-top: 8px;
+  padding-top: 2px;
 }
 
 @media screen and (max-width: 900px) {
@@ -178,16 +183,12 @@ footer img {
   }
   
   #logo-div {
-    content: url(../images/header/nav/main_logo_blue_flipped.png);
-    width: auto;
-    height: 120px;
-    margin: 0 auto;
-    
+    content: url(../images/header/nav/mobile_main_logo_blue.png);
+    height: 130px;
   }
   
   #logo-div:hover {
-    content: url(../images/header/nav/main_logo_blue_inversed_flipped.png);
-    transition: content 1s ease-in;
+    content: url(../images/header/nav/mobile_main_logo_blue_inversed.png);
   }
   
   nav {
@@ -200,16 +201,12 @@ footer img {
     font-size: 1.5em;
     padding: 15px 0;
   }
-}
-
-#footer-contact-section {
-  height: auto;
-  text-align: center;
-}
-
-footer img {
-  width: 50px;
-  padding-top: 1px;
+  #footer-contact-section {
+    text-align: right;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+  }
 }
 
 
