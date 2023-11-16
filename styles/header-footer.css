@@ -161,13 +161,12 @@ footer p {
 }
 
 #footer-contact-section {
-  align-self: center;
   text-align: right;
-  height: 50px;
 }
 
 footer img {
   width: 50px;
+  padding-top: 8px;
 }
 
 @media screen and (max-width: 900px) {
@@ -204,10 +203,14 @@ footer img {
 }
 
 #footer-contact-section {
-  text-align: center;
   height: auto;
+  text-align: center;
 }
 
+footer img {
+  width: 50px;
+  padding-top: 1px;
+}
 
 
 
