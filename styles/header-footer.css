@@ -145,14 +145,18 @@ nav a:hover {
 
 footer {
   width: 100%;
+  height: 64px;
   display: grid;
+  grid-template-columns: 80% 20%;
   margin-top: auto;
-  grid-template-columns: 90% 10%;
+  justify-items: center;
+  align-items: center;
   background-color: var(--primary-color);
   overflow: hidden;
 }
 
 footer p {
+  grid-column: 1/2;
   align-self: center;
   font-family: var(--paragraph-font);
   color: var(--paragraph-color-on-color);
@@ -162,17 +166,19 @@ footer p {
 }
 
 #footer-contact-section {
-  display: flex;
+  margin-right: 10px;
+  justify-self: end;
+  padding: 5px;
+  display: grid;
   grid-template-columns: repeat(3, 1fr);
-  width: 150px;
-  outline: 2px solid black;
+  width: 156px;
   text-align: center;
-  gap: 2%;
   
 }
 
 footer img {
   width: 50px;
+  padding: 3px;
   padding-top: 2px;
 }
 
@@ -204,10 +210,15 @@ footer img {
     padding: 15px 0;
   }
   #footer-contact-section {
-    text-align: right;
+    justify-self: right;
     display: grid;
     grid-template-columns: 1fr;
-    justify-content: center;
+    width: 50px;
+    padding: 5px;
+  }
+  footer {
+    height: 185px;
+    padding-top: 4px;
   }
 }
 
