@@ -173,7 +173,7 @@ div h2 {
 .box-link-p {
     font-family: var(--paragraph-font);
     text-align: center;
-    color: rgb(75, 74, 74);
+    color: #4b4a4a;
     font-size: 1em;
     padding: 50px;
     padding-top: 3vw;
