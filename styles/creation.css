@@ -117,8 +117,8 @@ hr {
     background-color: var(--accent2-color);
     border: 2px solid #af5239;
     width: 80%;
-    margin: 8% auto 5%;
-    height: 25px;
+    margin: 8% auto 4%;
+    height: 2em;
 }
 
 #software-buttons2 {
