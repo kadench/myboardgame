@@ -92,13 +92,13 @@ hr {
 #text-intro-h2 {
     font-family: var(--heading-font);
     color: #F2F2F2;
-    font-size: 2.6em;
+    font-size: 2em;
     text-align: center;
     padding-bottom: 2%;
 }
 
 #text-intro-p {
-    text-align: left;
+    text-align: center;
     font-family: var(--paragraph-font);
     font-size: 1.1em;
     color: #F2F2F2;
