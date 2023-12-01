@@ -9,7 +9,7 @@ Welcome to the Massive Monopoly project repository! This is a solo project, and 
 
 ## Purpose
 
-This repository is my final project for the WDD130 course which serves as a simple documentation of my journey in creating my version of the Monopoly game. It's designed to highlight the core aspects of my game and provide insights into its creation process, with a focus on brevity and clarity.
+**This repository is my final project for the WDD130 course** which serves as a simple documentation of my journey in creating my version of the Monopoly game. It's designed to highlight the core aspects of my game and provide insights into its creation process, with a focus on brevity and clarity.
 
 ## Pages
 
