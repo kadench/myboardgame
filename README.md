@@ -5,7 +5,7 @@ I do not claim any ownership over any of Monopoly's copyrighted material. The MA
 
 ## Overview
 
-Welcome to the Massive Monopoly project repository! This is a solo project, and it showcases my version of the popular Monopoly game, which I've been working on. While the content may be relatively simple, it provides an overview of the project's essence, design elements, and the tools I used for its creation.
+Welcome to the Massive Monopoly project repository! This website is a school project, and it showcases my version of the popular Monopoly game, which I've been working on. While the content may be relatively simple, it provides an overview of the project's essence, design elements, and the tools I used for its creation. The MASSIVE Monopoly board game itself is a personal project that I wanted to share, so I made it part of my final project in the WDD130 course.
 
 ## Purpose
 
