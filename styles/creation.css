@@ -331,6 +331,22 @@ input {
     .piece-p2 {
         margin: 0;
     }
+
+    .image-first {
+        width: 90%;
+        height: fit-content;
+        margin: 0;
+        padding: 4%;
+        padding-top: 2%;
+    }
+    
+    .image-second {
+        width: 90%;
+        height: fit-content;
+        margin: 0;
+        padding: 4%;
+        padding-top: 2%;
+    }
 }
 
 @media screen and (min-width: 320px) {
