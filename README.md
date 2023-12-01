@@ -19,11 +19,12 @@ The Home page offers an introduction to Monopoly and the basis of my version. I 
 
 ### [Creation](https://kadench.github.io/myboardgame/creation.html)
 
-On the Creation page, I provide a straightforward description of the software I use and the original Monopoly game's elements and a simplified overview of the creation process for each component.
+On the Creation page, I provide a straight forward description of the software I use and the original Monopoly game's elements and a simplified overview of the creation process for each component.
 
 ### [Contact](https://kadench.github.io/myboardgame/contactme.html)
 
-The Contact page offers a brief 'About Me' section and my contact information, should you wish to get in touch. (The styling for this page is not done, but will be done next week.)
+The Contact page offers a brief 'About Me' section and my contact information, should you wish to get in touch.
+(The styling for this page is not done, but will be done next week.)
 
 ## Getting Started
 
