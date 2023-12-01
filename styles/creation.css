@@ -277,13 +277,13 @@ input {
     opacity:0;
 }
 
-#trigger1:checked ~ label:before,
-#trigger2:checked ~ label:before,
-#trigger3:checked ~ label:before,
-#trigger4:checked ~ label:before,
-#trigger5:checked ~ label:before,
-#trigger6:checked ~ label:before,
-#trigger7:checked ~ label:before {
+#trigger1:checked ~ .more-label:before,
+#trigger2:checked ~ .more-label:before,
+#trigger3:checked ~ .more-label:before,
+#trigger4:checked ~ .more-label:before,
+#trigger5:checked ~ .more-label:before,
+#trigger6:checked ~ .more-label:before,
+#trigger7:checked ~ .more-label:before {
     top: 18px;
     transform: rotate(90deg)
 }
@@ -298,6 +298,7 @@ input {
     padding: 10px;
     opacity: 1;
     height: auto;
+    padding: 3%;
 }
 
 .more-div1 {
