@@ -1,12 +1,15 @@
 # Massive Monopoly Project
 
+## Disclaimer
+I do not claim any ownership over any of Monopoly's copyrighted material. The MASSIVE Monopoly board game, with all of it's components, is a personal project that I do not intend to sell or distribute. 
+
 ## Overview
 
 Welcome to the Massive Monopoly project repository! This is a solo project, and it showcases my version of the popular Monopoly game, which I've been working on. While the content may be relatively simple, it provides an overview of the project's essence, design elements, and the tools I used for its creation.
 
 ## Purpose
 
-This repository serves as a simple documentation of my journey in creating my version of the Monopoly game. It's designed to highlight the core aspects of my game and provide insights into its creation process, with a focus on brevity and clarity.
+This repository is my final project for the WDD130 course which serves as a simple documentation of my journey in creating my version of the Monopoly game. It's designed to highlight the core aspects of my game and provide insights into its creation process, with a focus on brevity and clarity.
 
 ## Pages
 
