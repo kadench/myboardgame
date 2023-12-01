@@ -23,7 +23,7 @@ On the Creation page, I provide a straightforward description of the software I 
 
 ### [Contact](https://kadench.github.io/myboardgame/contactme.html)
 
-The Contact page offers a brief 'About Me' section and my contact information, should you wish to get in touch.
+The Contact page offers a brief 'About Me' section and my contact information, should you wish to get in touch. (The styling for this page is not done, but will be done next week.)
 
 ## Getting Started
 
