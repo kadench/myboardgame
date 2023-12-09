@@ -124,6 +124,15 @@ hr {
     text-align: center;
 }
 
+#me-box-a {
+    color: #636262;
+    transition: background-color .2s ease-in-out;
+}
+
+#me-box-a:hover {
+    background-color: #dfdfdf;
+}
+
 #direction-text {
     text-align: center;
     margin: 3% auto 0;
