@@ -237,7 +237,7 @@ hr {
     padding-bottom: .5%;
 }
 
-/* Accordian text box made by following this tutorial
+/* accordion text box made by following this tutorial
 and tweaking it to my liking. You can find the video
 here: https://youtu.be/2cPKsxJcF9Y?si=iePCrZ3yN9kQ2fbq */
 input {
@@ -270,7 +270,7 @@ input {
     transform-origin: 3px center;
 }
 
-.accordian div {
+.accordion div {
     font-size: 26px;  
     height: 0;
     overflow: hidden;
@@ -365,7 +365,7 @@ input {
     320px (from my understanding, 320px is a general screen size
     for mobile devices.) from it, divides that by 680 (an average
     big screen size), then multiply the result by 3 and add 15px.
-    (inspiration from css-tricks:
+    (from css-tricks:
     https://css-tricks.com/how-do-you-do-max-font-size-in-css/) */
     body {
       font-size: calc(15px + 3 * ((100vw - 320px) / 680));

@@ -199,7 +199,7 @@ div h2 {
     320px (from my understanding, 320px is a general screen size
     for mobile devices.) from it, divides that by 680 (an average
     big screen size), then multiply the result by 3 and add 15px.
-    (inspiration from css-tricks:
+    (from css-tricks:
     https://css-tricks.com/how-do-you-do-max-font-size-in-css/) */
     body {
       font-size: calc(15px + 3 * ((100vw - 320px) / 680));

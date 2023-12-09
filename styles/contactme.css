@@ -110,6 +110,7 @@ hr {
 
 #name {
     font-family: var(--heading-font);
+    text-align: center;
     color: var(--accent2-color);
     margin: 2%;
 }
@@ -138,7 +139,7 @@ hr {
     font-family: var(--paragraph-font);
     align-self: center;
     font-size: 1.3em;
-    color: #000;
+    color: #F2F2F2;
     text-align: center;
     text-decoration: none;
     border-radius: 5px;
@@ -150,7 +151,7 @@ hr {
     cursor: pointer;
     background-color: var(--primary-color);
     border: 3px solid #af924a;
-    color: #F2F2F2;
+    color: #000;
 }
 
 
@@ -195,6 +196,7 @@ hr {
         color: var(--accent2-color);
         font-size: 40px;
         margin: 0;
+        text-align: center;
     }
     
     #desc 
@@ -215,18 +217,18 @@ hr {
         font-style: italic;
     }
 }
-
-@media screen and (min-width: 0px) {
-    /* Clamp is a fairly new css attribute and therefore is not widely
-    supported as of now, so I can't use it here as it doesn't seem to
-    work. As a substitute, we can introduce a css font-size "lock".
-    This calculation takes the current viewport size, subtracts
-    320px (from my understanding, 320px is a general screen size
-    for mobile devices.) from it, divides that by 680 (an average
-    big screen size), then multiply the result by 3 and add 15px.
-    (inspiration from css-tricks:
-    https://css-tricks.com/how-do-you-do-max-font-size-in-css/) */
-    body {
-      font-size: calc(15px + 3 * ((100vw - 320px) / 680));
+    
+    @media screen and (min-width: 0px) {
+        /* Clamp is a fairly new css attribute and therefore is not widely
+        supported as of now, so I can't use it here as it doesn't seem to
+        work. As a substitute, we can introduce a css font-size "lock".
+        This calculation takes the current viewport size, subtracts
+        320px (from my understanding, 320px is a general screen size
+        for mobile devices.) from it, divides that by 680 (an average
+        big screen size), then multiply the result by 3 and add 15px.
+        (from css-tricks:
+        https://css-tricks.com/how-do-you-do-max-font-size-in-css/) */
+        body {
+            font-size: calc(15px + 3 * ((100vw - 320px) / 680));
+        }
     }
-  }
